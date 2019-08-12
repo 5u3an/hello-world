@@ -25,3 +25,5 @@
 [Nikita Bajracharya](https://github.com/nikita5119)
 
 [Renish Gautam](https://github.com/Renish1234)
+
+[Nayan Shrees](https://github.com/Nayan47)
