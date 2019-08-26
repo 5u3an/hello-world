@@ -10,7 +10,7 @@
 
 [Sulav Thapa](https://github.com/Sulav13)
 
-[Suman Khadka](https://github.com/5u3an)
+[Suman Khadka](https://github.com/5umanKhadka)
 
 [Roshita Tamang](https://github.com/theroshh)
 
